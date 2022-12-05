@@ -1,0 +1,90 @@
+Units:
+
+Villains:
+
+	Deathknight
+	
+	Movement: 5
+	Attack Range: 1
+	Attack Damage: 3(5)
+	Health: 6
+
+	When killing another unit, the Deathknight will raise a zombie in the same square the unit was killed. 
+	In addition the Deathknight's attack damage will increase by a value of two points until the end of it's next turn.
+	The damage boost doesn't stack but the duration can be prolonged to further turns.
+
+	Necromancer
+	
+	Movement: 4
+	Summon Range: 5
+	Attack Damage: null
+	Health: 4
+	
+	Able to summon a single zombie unit within a range of five squares.
+
+	Zombie:
+	
+	Movement: 3
+	Attack Range: 1
+	Attack Damage: 3
+	Health: 6
+
+	Basic Unit
+	
+	Skeleton Archer:
+	
+	Movement: 4
+	Attack Range: 6
+	Attack Damage: 3
+	Health: 4
+
+	Basic Ranged Unit that targets a single enemy.
+
+Heroes:
+
+	Knight: 
+		
+	Movement: 5
+	Attack Range: 1
+	Attack Damage: 3
+	Health: 16
+
+	Basic Melee unit that targets a single unit.
+
+	Wizard: 
+	
+	Movement: 4
+	Attack Range: 5
+	Attack Damage: 3
+	Health: 8
+
+	Launches an AOE fireball attack that damages all trapped within the fireball's radius which is a size of 3
+
+	Archer:
+	
+	Movement: 4
+	Attack Range: 6
+	Damage: 3
+	Health: 10
+
+	Basic Ranged unit that targets a single unit
+
+	Dragon Hunter:
+	
+	Movement: 4
+	Attack Range: 4
+	Attack Damage: 1
+	Health: 24
+
+	A tank unit that releases an AOE shout that attracts the attention of units within a range and deals one point of damage.
+	The AOE has a radius of 2.
+
+	Explorer:
+	
+	Movement: 8
+	Heal Range: 1
+	Heal Amount: 1
+	Health: 10
+	
+	A healer unit that collects food packets as he moves across the map. Every food packet can heal units and has an AOE effect with a
+	radius of 2.

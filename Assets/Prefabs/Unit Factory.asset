@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe4d308c1f59c141a7558bc699f79cf, type: 3}
+  m_Name: Unit Factory
+  m_EditorClassIdentifier: 
+  genericHeroPrefab: {fileID: 6053798687115859495, guid: 8bb5133956f4b074694a136429d91ab6,
+    type: 3}
+  archerPrefab: {fileID: 8147563581585816249, guid: 90fd3bed7fce23449a9c4fbb1e13f1e7,
+    type: 3}
+  dragonHunterPrefab: {fileID: 3129995855436185835, guid: 9e8d816efef80504f80a7024a14790cd,
+    type: 3}
+  explorerPrefab: {fileID: 8373917144571345889, guid: bbe75424ca4cb364789475d7fe3a7104,
+    type: 3}
+  knightPrefab: {fileID: 9189942117468904151, guid: ea6c8b55137df7e41b0c79ad8b3235a1,
+    type: 3}
+  wizardPrefab: {fileID: 647526716406532885, guid: 64ebbdcd349aed34baccdeeb12010f7e,
+    type: 3}
+  genericVillainPrefab: {fileID: 5760357204340179091, guid: fd9958c0cd4c33a46a7835a525ea68d5,
+    type: 3}
+  deathKnightPrefab: {fileID: 5988829500180229224, guid: 2e8427e71ccaf3e4d8f74fc0084ba1ab,
+    type: 3}
+  necromancerPrefab: {fileID: 8924059599582163061, guid: 5be1fed493dd4e342a6e026c9d8d434a,
+    type: 3}
+  skeletonArcherPrefab: {fileID: 4550256559702911032, guid: 50bf7659fa72a3e4686c7c5598d62504,
+    type: 3}
+  zombiePrefab: {fileID: 8757231029881640647, guid: 8248b493c99922c4aa47f4f49479a3e7,
+    type: 3}

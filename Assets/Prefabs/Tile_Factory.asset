@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2580221052d95642a10773a105fdf6f, type: 3}
+  m_Name: Tile_Factory
+  m_EditorClassIdentifier: 
+  none_prefab: {fileID: 5564044896557424883, guid: 7f56358498f41bc4fac707a3aee9f9f4,
+    type: 3}
+  grass_prefab: {fileID: 943585962361349180, guid: 7df3dec7f5ec09a4ba28de280247c7b9,
+    type: 3}
+  sand_prefab: {fileID: 3341229374402608095, guid: 9b7682a77f6852944bc9df4cbc0a9bd5,
+    type: 3}
+  mountain_prefab: {fileID: 860608381835057845, guid: 87accd24af0cf8b4d889c4be8d026afc,
+    type: 3}
+  water_prefab: {fileID: 5407001004985107221, guid: cff0fce6902c6c04ba8bd0205e7ae4a2,
+    type: 3}
+  hill_prefab: {fileID: 3159026278323936508, guid: 9658f384a82b312429c86d2896daea11,
+    type: 3}
+  forest_prefab: {fileID: 1977722225970361729, guid: 40bc19ab644446c49beb6cb7de8e046f,
+    type: 3}
+  road_prefab: {fileID: 6158456811431442402, guid: 180dabddb1b7e544c833973426f93f3c,
+    type: 3}
